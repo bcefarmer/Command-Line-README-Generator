@@ -120,4 +120,4 @@ Each version is given a distinguishing version number. If the Program specifies 
 
 # Questions
 
-"Any questions about this app?  Please contact me at bce.farmer@gmail.com .
+Any questions about this app?  Please contact me at bce.farmer@gmail.com .
