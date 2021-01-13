@@ -1,5 +1,5 @@
 # Command Line README Generator
-   [![License](https://img.shields.io/badge/License-GPL%20v2-red.svg)]
+   ![License](https://img.shields.io/badge/License-GPL%20v2-red.svg)
 
 ---
 
