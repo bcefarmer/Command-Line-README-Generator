@@ -32,7 +32,7 @@ To start Command Line README Generator, type 'node index.js' into the command li
 
 # License
 
-# The GNU General Public License, Version 2, June 1991 (GPLv2)
+## The GNU General Public License, Version 2, June 1991 (GPLv2)
 ## Copyright (C) 1989, 1991 Free Software Foundation, Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.

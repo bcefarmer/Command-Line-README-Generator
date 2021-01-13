@@ -24,7 +24,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.`,
 
 // GPLv2 LICENSE
 "GPLv2":
-`# The GNU General Public License, Version 2, June 1991 (GPLv2)
+`## The GNU General Public License, Version 2, June 1991 (GPLv2)
 ## Copyright (C) 1989, 1991 Free Software Foundation, Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
