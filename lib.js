@@ -40,7 +40,7 @@ $$_license
 
 # Questions
 
-"Any questions about this app?  Please contact me at $$_questions .
+Any questions about this app?  Please contact me at $$_questions .
 `
 
 module.exports = {docInfo};
