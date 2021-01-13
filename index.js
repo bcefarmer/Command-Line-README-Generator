@@ -37,18 +37,18 @@ const init = async () =>{
             switch (answers.license) {
                 // User has selected MIT license.
                 case "MIT":
-                icon = "[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]";
+                icon = "![License](https://img.shields.io/badge/License-MIT-yellow.svg)";
                 return licenseInfo[0].MIT;
                 break;
                
                 // User has selected GPLv2 license.
                 case "GPLv2":
-                icon = "[![License](https://img.shields.io/badge/License-GPL%20v2-red.svg)]";
+                icon = "![License](https://img.shields.io/badge/License-GPL%20v2-red.svg)";
                 return licenseInfo[0].GPLv2;
                 break;
 
                 case "Apache":
-                    icon = "[![License](https://img.shields.io/badge/License-Apache%202.0-red.svg')]";
+                    icon = "![License](https://img.shields.io/badge/License-Apache%202.0-red.svg')";
                     return licenseInfo[0].Apache;
                     break;
 
