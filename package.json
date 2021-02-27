@@ -1,0 +1,23 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "Generates a README.md file from a series of prompts",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcefarmer/Command-Line-README-Generator.git"
+  },
+  "author": "Bruce Farmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcefarmer/Command-Line-README-Generator/issues"
+  },
+  "homepage": "https://github.com/bcefarmer/Command-Line-README-Generator#readme"
+}
